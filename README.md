@@ -57,24 +57,24 @@
 
 ```mermaid
 graph TD
-    subgraph "Phase 1: Foundations (2022-2023)"
-        A[<b>Relation Modeling</b><br>GCN (AAAI'22)]
-        B[<b>Vision Transformer</b><br>ViT Baseline]
+    subgraph Phase1 ["Phase 1: Foundations (2022-2023)"]
+        A["Relation Modeling<br>GCN (AAAI 2022)"]
+        B["Vision Transformer<br>ViT Baseline"]
     end
 
-    subgraph "Phase 2: Semantic Expansion (2023-2024)"
-        B --> C[<b>CLIP-Prompt Fusion</b><br>TCSVT'24 (Prompt Tuning)]
-        C --> C1[<b>Video Side-Tuning</b><br>TCSVT'24 (Efficiency)]
-        C --> C2[<b>Unsupervised GAAP</b><br>IJCAI'24 (Pseudo Label)]
+    subgraph Phase2 ["Phase 2: Semantic Expansion (2023-2024)"]
+        B --> C["CLIP-Prompt Fusion<br>TCSVT 2024 (Prompt Tuning)"]
+        C --> C1["Video Side-Tuning<br>TCSVT 2024 (Efficiency)"]
+        C --> C2["Unsupervised GAAP<br>IJCAI 2024 (Pseudo Label)"]
     end
 
-    subgraph "Phase 3: New Era (2025)"
-        B --> D[<b>Mamba & RWKV</b><br>T-MM'24 (Linear Complexity)]
-        D --> D1[<b>RGB-Event Fusion</b><br>ArXiv'25 (Multi-Modal)]
+    subgraph Phase3 ["Phase 3: New Era (2025)"]
+        B --> D["Mamba & RWKV<br>T-MM 2024 (Linear Complexity)"]
+        D --> D1["RGB-Event Fusion<br>ArXiv 2025 (Multi-Modal)"]
         
-        C --> E[<b>LLM Agent</b><br>AAAI'25 (MSP60K Dataset)]
+        C --> E["LLM Agent<br>AAAI 2025 (MSP60K Dataset)"]
         
-        A --> F[<b>HyperGraph</b><br>ArXiv'25 (Structure Learning)]
+        A --> F["HyperGraph<br>ArXiv 2025 (Structure Learning)"]
     end
     
     style D fill:#f9f,stroke:#333,stroke-width:2px
