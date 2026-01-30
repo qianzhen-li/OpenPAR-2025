@@ -34,22 +34,6 @@
 
 ---
 
-## 🏛️ Part 3: 2022-2023 Classics (经典基石)
-*重点关注：Transformer 早期探索、图网络 (GCN) 及评估标准。*
-
-| Paper Title | Venue | Code | PDF | 💡 Insight |
-| :--- | :---: | :---: | :---: | :--- |
-| **Rethinking of Pedestrian Attribute Recognition: A Reliable Evaluation** | **IEEE TCSVT** | [Link](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/abs/2305.08386) | **(评估标准)** 必读！提出 Zero-Shot 和跨域评估协议，修正刷榜偏差。 |
-| **VTB: Vision-Text Baseline for Pedestrian Attribute Recognition** | **IEEE T-BIOM** | [Link](https://github.com/maywe/VTB) | [PDF](https://arxiv.org/abs/2305.09668) | **(双塔基准)** 早期的 BERT+ViT 双流架构，强调视文对齐。 |
-| **PLIP: Language-Image Pre-training for Person Representation** | **IJCAI 2023** | [Link](https://github.com/ZuoJiawei/PLIP) | [PDF](https://arxiv.org/abs/2305.08386) | **(预训练)** 专门针对“人”这一类别进行大规模图文预训练。 |
-| **Diverse Features Discovery Transformer for PAR (DF2)** | **EAAI 2023** | [Link](https://github.com/AmirHussain/DF2) | [PDF](https://doi.org/10.1016/j.engappai.2023.105708) | **(特征解耦)** 强制 Transformer 关注不同的属性区域。 |
-| **COCO: Co-operation of Co-relation for Pedestrian Attribute Recognition** | **ICCV 2023** | - | [PDF](https://arxiv.org/abs/2307.15252) | **(关系建模)** 同时建模属性间关系和空间关系。 |
-| **A Solution to Co-occurrence Bias via Mutual Information Minimization** | **IJCAI 2023** | - | [PDF](https://www.ijcai.org/proceedings/2023/166) | **(去偏见)** 通过互信息最小化解决属性共现偏见（如长发=女性）。 |
-| **Relation-Aware PAR with Graph Convolutional Networks** | **AAAI 2022** | [Link](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/abs/2204.03852) | **(GCN 经典)** 利用图卷积挖掘属性共现关系，Graph 类标杆。 |
-| **DaRE: Disentangled and Relation-aware Evidence Reasoning** | **IEEE TPAMI** | - | [PDF](https://ieeexplore.ieee.org/document/9466400) | **(顶刊经典)** 深度解耦特征，同时考虑属性关系，数学理论扎实。 |
-
----
-
 ## 🛠️ Contribution
 欢迎提交 Pull Request 补充更多 2025 年的顶会工作！
 ## 📚 经典资源回溯 (Before 2022)
