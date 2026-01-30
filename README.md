@@ -13,7 +13,7 @@
 | **RGB-Event based PAR: Benchmark & Asymmetric RWKV Fusion** | **ArXiv 2025** | [Link](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/pdf/2504.10018) | **(多模态)** 首个引入事件相机解决夜间难题，利用 RWKV 处理高频流。 |
 | **PAR: A New Benchmark Dataset (MSP60K) & LLM Augmented Framework** | **AAAI 2025** | [Link](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/pdf/2408.09720) | **(数据基准)** 发布 MSP60K，用 LLM 清洗数据并生成语义描述。 |
 | **Adversarial Semantic and Label Perturbation Attack for PAR (ASL-PAR)** | **ArXiv 2025** | [Link](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/pdf/2505.23313) | **(安全攻防)** 领域首个对抗攻击框架，研究语义扰动攻击。 
-| **Pedestrian Attribute Recognition via Hierarchical Cross-Modality HyperGraph** | **ArXiv 2025** | - | [PDF](https://arxiv.org/abs/2509.22331) | **(严重遮挡)** 引入超图理论，建模多部位（头+肩+包）的复杂遮挡关系。 |
+| **Pedestrian Attribute Recognition via Hierarchical Cross-Modality HyperGraph** | **ArXiv 2025** | [Link](https://github.com/Event-AHU/OpenPAR)  | [PDF](https://arxiv.org/pdf/2509.22331) | **(严重遮挡)** 引入超图理论，建模多部位（头+肩+包）的复杂遮挡关系。 |
 | **SequencePAR: Understanding Pedestrian Attributes via Sequence Generation** | **PR 2025** | [Link](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/pdf/2312.01640) | **(范式转换)** 将多标签分类重构为 Seq2Seq 生成任务。 |
 | **SNN-PAR: Spiking Neural Networks for Pedestrian Attribute Recognition** | **ICIG 2025** | [Link](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/pdf/2410.07857) | **(低功耗)** 探索脉冲神经网络 (SNN) 应用，适合边缘设备。 |
 
