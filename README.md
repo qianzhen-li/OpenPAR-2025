@@ -10,8 +10,8 @@
 
 | Paper Title | Year/Venue | Category | Code | Link | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| **Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion** | 2024/ArXiv | **VL-Fusion** | [Coming Soon](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/abs/xxxx) | **(重点)** 基于 CLIP 提示学习，需精读 |
-| **An Empirical Study of Mamba-based Pedestrian Attribute Recognition** | 2024/ArXiv | **Mamba** | [Check OpenPAR](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/abs/xxxx) | 探索 Mamba 在 PAR 的有效性 |
+| **Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion** | 2024/ArXiv | **VL-Fusion** | [Coming Soon](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/html/2312.10692v2)| **(重点)** 基于 CLIP 提示学习，需精读 |
+| **An Empirical Study of Mamba-based Pedestrian Attribute Recognition** | 2024/ArXiv | **Mamba** | [Check OpenPAR](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/pdf/2407.10374) | 探索 Mamba 在 PAR 的有效性 |
 
 ---
 
@@ -43,9 +43,7 @@
 
 ## 📚 经典资源回溯 (Before 2022)
 如果你需要查找 2022 年以前的经典 Baseline，请参考：
-* [Older Works Collection 1](https://github.com/xxx)
-* [Older Works Collection 2](https://github.com/xxx)
-
+* [Older Works Collection 1](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List)
 ## 🤝 如何贡献
 1. 在 `papers` 文件夹中添加 PDF（可选）。
 2. 在 `README.md` 表格中追加新论文。
