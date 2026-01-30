@@ -30,7 +30,7 @@
 | **Pedestrian Attribute Recognition as Label-balanced Multi-label Learning** | **TPAMI 2024** | [Link](https://github.com/Purdue-Digital-Twin/LBL) | [PDF](https://arxiv.org/abs/2405.04858) | **(长尾分布)** 提出数学严谨的重采样策略，解决稀有属性识别难点。 |
 | **Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion** | **IEEE TCSVT** | [Link](https://github.com/Event-AHU/OpenPAR) | [PDF](https://arxiv.org/abs/2312.10692) | **(Prompt 鼻祖)** 最早将 CLIP Prompt 引入 PAR，是 V-L 方法的基础。 |
 | **GAAP: Attribute-guided Prompt for Unsupervised Person Retrieval** | **IJCAI 2024** | - | [PDF](https://www.ijcai.org/proceedings/2024/116) | **(无监督)** 利用“属性词”生成 Prompt 驱动 CLIP 产生伪标签。 |
-| **Selective and Orthogonal Feature Activation (SOFA)** | **AAAI 2024** | - | [PDF](https://arxiv.org/abs/2401.00000) | **(特征解耦)** 强制特征正交化，减少属性间的干扰。 |
+| **Selective and Orthogonal Feature Activation (SOFA)** | **AAAI 2024** | - | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28419)| **(特征解耦)** 强制特征正交化，减少属性间的干扰。 |
 
 ---
 
